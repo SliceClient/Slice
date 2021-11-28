@@ -1,5 +1,6 @@
 # Slice
 Everything Slice In One
+## GIVE CREDIT IF YOU USE OUR CODE!
 
 ## Modules
 - Client: The Client
