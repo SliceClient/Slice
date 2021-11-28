@@ -1,5 +1,5 @@
 # Slice
-Everything Slice In One
+Everything Slice In One (this is an old ver of the source, will update it soon)
 ## GIVE CREDIT IF YOU USE OUR CODE!
 
 ## Modules
